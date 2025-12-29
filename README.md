@@ -7,6 +7,6 @@
 ### Ссылки
 
 - **GitHubPages**: 
-- **Бэкенд (основной веб-сервис)**:https://github.com/zazaiu/web-application-development-
+- **Бэкенд (основной веб-сервис)**:https://github.com/zazaiu/web-application-development-](https://github.com/zazaiu/web-application-development-space-astrophisic-go
 - **Бэкенд (асинхронный сервис)**:https://github.com/zazaiu/web-application-development_space-calc_async-service
 - **Фронтенд**:https://github.com/zazaiu/space-astrophysics
